@@ -13,7 +13,7 @@ import org.junit.Test;
  */
 
 /*
-"Finding good names is one of the challanges of crafting software. "
+"Finding good names is one of the challenges of crafting software. "
 + "And you need to find them all the time and for everything – "
 + "classes, methods, variables, just to name a few. "
 + "But what makes a name a good name? To quote Oncle Bob: "
