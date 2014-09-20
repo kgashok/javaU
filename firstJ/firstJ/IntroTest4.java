@@ -15,7 +15,9 @@ public class IntroTest4 {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		// fail("Not yet implemented");
+		Intro m = new Intro();
+		assertTrue (Intro.getValue());
 	}
 
 }

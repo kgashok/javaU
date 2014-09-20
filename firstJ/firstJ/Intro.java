@@ -17,6 +17,14 @@ public class Intro {
 		
 		return "Hello World!";
 	}
+
+	public static boolean getValue() {
+		// TODO Auto-generated method stub
+		return b_value;
+	}
 	
+	public Intro() { b_value = true; }
+	
+	private	static boolean b_value;
 
 }
