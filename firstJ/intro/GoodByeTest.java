@@ -4,14 +4,13 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class IntroTest {
+public class GoodByeTest {
 
 	@Test
-	public void testHello() {
+	public void test() {
 		// fail("Not yet implemented");
 		Intro x = new Intro();
-	    assertEquals("Hello", x.getHello());
+	    assertEquals("Good Bye!", x.getGoodBye());
 	}
-	
 
 }

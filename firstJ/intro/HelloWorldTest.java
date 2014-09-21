@@ -11,7 +11,7 @@ import org.junit.Test;
  * @author Advik
  *
  */
-public class IntroTest3 {
+public class HelloWorldTest {
 
 	@Test
 	public final void test() {

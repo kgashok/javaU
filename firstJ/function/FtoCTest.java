@@ -11,7 +11,7 @@ import org.junit.Test;
  * @author Advik
  *
  */
-public class testFtoC {
+public class FtoCTest {
 
 	@Test
 	public void test() {
