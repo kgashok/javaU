@@ -1,10 +1,17 @@
-package strings;
+/**
+ * 
+ */
+package function;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class StringTest {
+/**
+ * @author Advik
+ *
+ */
+public class MakeArray {
 
 	@Test
 	public void test() {
