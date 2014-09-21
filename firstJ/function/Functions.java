@@ -34,5 +34,13 @@ public class Functions {
 		return array;
 	}
 
+	public static int add(int[] numbers) {
+		// TODO Auto-generated method stub
+		int sum = 0;
+		for (int i = 0; i < numbers.length; i++)
+			sum += numbers[i];
+		return sum;
+	}
+
 
 }
