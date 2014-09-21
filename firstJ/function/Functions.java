@@ -9,7 +9,7 @@ package function;
  */
 public class Functions {
 
-	public static Object hello() {
+	public static String hello() {
 		// TODO Auto-generated method stub
 		return "hello";
 	}
