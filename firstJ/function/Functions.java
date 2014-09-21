@@ -26,4 +26,13 @@ public class Functions {
 		return (i - 32) * 5 / 9;
 	}
 
+	public static String[] makeArray(String string, String string2,
+			String string3) {
+		// TODO Auto-generated method stub
+		String[] array = new String[3];
+		array[0] = string; array[1] = string2; array[2] = string3;
+		return array;
+	}
+
+
 }
