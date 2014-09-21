@@ -1,4 +1,4 @@
-package firstJ;
+package intro;
 
 public class MyFirstJProgram {
 

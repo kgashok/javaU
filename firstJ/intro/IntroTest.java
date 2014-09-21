@@ -1,16 +1,17 @@
-package firstJ;
+package intro;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class TestGoodBye {
+public class IntroTest {
 
 	@Test
-	public void test() {
+	public void testHello() {
 		// fail("Not yet implemented");
 		Intro x = new Intro();
-	    assertEquals("Good Bye!", x.getGoodBye());
+	    assertEquals("Hello", x.getHello());
 	}
+	
 
 }

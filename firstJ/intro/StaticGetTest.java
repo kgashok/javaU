@@ -1,7 +1,7 @@
 /**
  * 
  */
-package firstJ;
+package intro;
 
 import static org.junit.Assert.*;
 
